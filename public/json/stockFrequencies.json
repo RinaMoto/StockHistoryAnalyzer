@@ -1,0 +1,17 @@
+[
+    {
+        "Freq" : "Intraday", "Interval": "1min"
+    }, 
+    {
+        "Freq" : "Intraday", "Interval": "5min"
+    }, 
+    {
+        "Freq" : "Intraday", "Interval": "15min"
+    }, 
+    {
+        "Freq" : "Weekly", "Interval": null
+    }, 
+    {
+        "Freq" : "Monthly", "Interval": null
+    }
+]
